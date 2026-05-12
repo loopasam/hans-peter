@@ -68,6 +68,8 @@ This project uses skills managed via [skills.sh](https://skills.sh/). You don't 
 ## General Rules
 
 - Be direct. No preamble, no fluff.
+- Be concise by default. Prefer short answers, bullet points, and direct file references. Avoid summaries, preambles, and extra explanation unless requested.
+- When there are many questions or decisions, go through them one at a time so the user can answer and process them more easily.
 - Don't modify `AGENTS.md` unless the user explicitly asks.
 - If you create a new convention or pattern, document it in `docs/`.
 - Prefer editing existing files over creating new ones, unless separation is clearly warranted.
